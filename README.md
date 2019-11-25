@@ -1,2 +1,2 @@
-# javiyaajay.github.io
+# ajayjaviya.github.io
 My Portfolio
